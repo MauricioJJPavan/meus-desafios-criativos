@@ -1,0 +1,52 @@
+**Cafés Especiais e Quentes**
+
+| Item | Descrição Breve | Preço |
+| --- | --- | --- |
+| Espresso Simples | Grãos 100% Arábica (Mogiana Paulista) | R$ 8,00 |
+| Espresso Duplo | Extração dupla calibrada | R$ 12,00 |
+| Macchiato | Espresso com mancha de crema de leite | R$ 10,00 |
+| Cappuccino Tradicional | Espresso, leite vaporizado e espuma cremosa (180ml) | R$ 14,00 |
+| Latte Baunilha Artesanal | Espresso, leite vaporizado e xarope natural de baunilha | R$ 17,00 |
+| Flat White | Ristretto duplo com microespuma de leite sedosa | R$ 16,00 |
+| Mocha | Espresso, leite vaporizado e ganache de chocolate 70% | R$ 18,00 |
+| Filtrado V60 / Prensa Francesa | Método manual à escolha, grãos em lote rotativo (200ml) | R$ 15,00 |
+
+---
+
+**Bebidas Geladas e Refrescantes**
+
+| Item | Descrição Breve | Preço |
+| --- | --- | --- |
+| Iced Latte Caramelo Salgado | Espresso duplo, leite gelado e calda artesanal de caramelo | R$ 19,00 |
+| Cold Brew Clássico | Café infusionado a frio por 18 horas | R$ 16,00 |
+| Cold Brew Tônica & Limão Siciliano | Cold brew, água tônica artesanal e toque cítrico | R$ 20,00 |
+| Affogato | Bola de sorvete de baunilha fava com dose de espresso quente | R$ 18,00 |
+| Frappé de Cappuccino | Batido com café especial, leite, gelo e chantilly | R$ 22,00 |
+| Soda Italiana Artesanal | Sabores: Maçã Verde, Framboesa ou Tangerina | R$ 14,00 |
+
+---
+
+**Salgados e Brunch**
+
+| Item | Descrição Breve | Preço |
+| --- | --- | --- |
+| Toast de Avocado & Ovo Poché | Pão de fermentação natural, avocado temperado e ovo poché | R$ 26,00 |
+| Toast de Cogumelos Salteados | Pão de levain, mix de shimeji e paris com fonduta de queijo | R$ 28,00 |
+| Croissant Tradicional na Manteiga | Massa folhada francesa de fermentação lenta | R$ 14,00 |
+| Croissant Recheado de Parma & Brie | Presunto cru tipo Parma, queijo brie e geleia de damasco | R$ 32,00 |
+| Pão de Queijo da Canastra (Porção com 4) | Feito com queijo da Serra da Canastra curado | R$ 16,00 |
+| Quiche de Alho-Poró e Gorgonzola | Acompanha pequena salada de folhas verdes | R$ 22,00 |
+| Empanada Porteña Artesanal | Sabores: Carne cortada na ponta da faca ou Queijo e Cebola | R$ 15,00 |
+
+---
+
+**Confeitaria e Doces**
+
+| Item | Descrição Breve | Preço |
+| --- | --- | --- |
+| Cookie Red Velvet com Gotas de Chocolate Branco | Crocante por fora, úmido por dentro | R$ 14,00 |
+| Fatia de Cheesecake de Frutas Vermelhas | Base crocante, cream cheese tradicional e coulis caseiro | R$ 22,00 |
+| Brownie 70% Cacau com Nozes | Acompanha calda morna de chocolate | R$ 16,00 |
+| Bolo de Cenoura com Ganache Cremosa | Fatia alta com calda intensa de cacau | R$ 15,00 |
+| Banoffee Tradicional no Copo | Camadas de biscoito, doce de leite artesanal, banana e nata | R$ 18,00 |
+| Croissant de Amêndoas | Recheado e coberto com creme frangipane e lâminas tostadas | R$ 24,00 |
